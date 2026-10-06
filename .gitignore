@@ -1,0 +1,11 @@
+# NetBeans
+**/build/
+**/dist/
+**/nbproject/private/
+
+# Database configuration
+**/config.properties
+
+# Windows
+Thumbs.db
+Desktop.ini
